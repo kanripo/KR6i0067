@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:08:55.797286
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:32
 #+TITLE: 佛說象頭精舍經
 #+PROPERTY: CBETA_ID T14n0466
 #+PROPERTY: ID KR6i0067
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 466
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0067_T_001-0487a> 
 #+PROPERTY: JUAN 1
 ¶
-No.466[Nos.464,465,467]¶
-
- 佛說象頭精舍經¶
+No. 466 [Nos. 464, 465, 467]¶
+佛說象頭精舍經¶
 ¶
-隋天竺三藏毘尼多流支譯¶
+隋天竺三藏＝沙門【三】【宮】三藏＝沙門【宋】【元】【明】【宮】三藏三藏毘尼多流支譯¶
 
 如是我聞：
 
@@ -312,7 +311,7 @@ No.466[Nos.464,465,467]¶
 三界；悉令滿足，功德智慧，無為之道——是名¶
 菩薩具足十種清淨之行。
 
-「復次，善男子！菩薩¶
+「復次，善勇子！菩薩¶
 摩訶薩有十種方便。何等為十？一者、彼岸方¶
 便，二者、受持方便，三者、智慧方便，四者、方便¶
 方便，五者、大悲方便，六者、智滿足方便，七者、¶
